@@ -1,5 +1,7 @@
 # Compass Plugin for Symboset
 
+*Keep in mind you'll need to buy the font libraries from Symbolset for this plugin to be of any use to you and your project*
+
 ## Install
 ```
 sudo gem install compass-symbolset
@@ -19,8 +21,6 @@ Import it in your `.scss` file.
 Copy the font libraries to your `font_dir`.
 
 Enjoy!
-
-*Keep in mind you'll need to buy the font libraries from Symbolset for this plugin to be of any use to you and your project*
 
 Currently only supports the Standard & Social libraries.
 
