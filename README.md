@@ -4,7 +4,7 @@
 
 ## Install
 ```
-sudo gem install compass-symbolset
+sudo gem install compass-symbolset-plugin
 ```
 
 ## Usage
