@@ -1,8 +1,14 @@
-# The Usual ...
+# File ignores
+*.gemspec
+*.gem
+
+# For the sass lover in all of us
+.sass-cache
+
+# The usual suspects
 .DS_Store
 .DS_Store?
 .Spotlight-V100
 .Trashes
 Thumbs.db
 
-*.gemspec
