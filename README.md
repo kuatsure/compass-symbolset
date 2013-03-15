@@ -2,9 +2,11 @@
 
 *Keep in mind you'll need to buy the font libraries from Symbolset for this plugin to be of any use to you and your project*
 
-## Install
+## Install via [Rubygems](https://rubygems.org/gems/compass-symbolset-plugin)
 ```
-sudo gem install compass-symbolset-plugin
+$ gem update --system
+
+$ gem install compass-symbolset-plugin
 ```
 
 ## Usage
