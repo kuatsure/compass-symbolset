@@ -24,7 +24,9 @@ Copy the font libraries to your `font_dir`.
 
 ## Versions
 SS-Standard			=> 1.004
+
 SS-Social-Circle	=> 1.005
+
 SS-Social-Regular	=> 1.005
 
 Don't forget to update your js files.
