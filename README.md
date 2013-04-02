@@ -22,9 +22,16 @@ Import it in your `.scss` file.
 
 Copy the font libraries to your `font_dir`.
 
+## Versions
+SS-Standard			=> 1.004
+SS-Social-Circle	=> 1.005
+SS-Social-Regular	=> 1.005
+
+Don't forget to update your js files.
+
 Enjoy!
 
-Currently only supports the Standard & Social libraries.
+Currently only supports the Standard & Social ( Regular & Circle ) libraries.
 
 ## Thanks
 [Compass](http://compass-style.org/) & [Symbolset](https://symbolset.com/)
