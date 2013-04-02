@@ -1,4 +1,4 @@
-# Compass Plugin for Symboset
+# Compass Plugin for Symbolset
 
 *Keep in mind you'll need to buy the font libraries from Symbolset for this plugin to be of any use to you and your project*
 
