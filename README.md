@@ -43,9 +43,11 @@ Copy the font libraries to your `font_dir`.
 
 Update your js files.
 
-### Enjoy!
+## Contributing
 
-Currently only supports the Standard & Social ( Regular & Circle ) libraries.
+Currently this only supports a small fraction of the available sets from Symbolset. If you could fork and provide the css ( use the `@include font-face()` compass syntax ) to other sets ( one fork per set please :) ), I'd truely apprieciate it. My goal is to have every set available via this gem.
 
 ## Thanks
 [Compass](http://compass-style.org/) & [Symbolset](https://symbolset.com/)
+
+### Enjoy!
