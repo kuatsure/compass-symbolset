@@ -9,6 +9,12 @@
  * Description:   Includes all libraries of the Symbolset styles
  */
 
+@charset "UTF-8";
+
+$use-standard:        false!default;
+$use-social-circle:   false!default;
+$use-social-regular:  false!default;
+
 @import "standard/standard";
 @import "social/circle";
 @import "social/regular";
