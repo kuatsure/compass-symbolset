@@ -11,14 +11,14 @@
 */
 
 @include font-face( 'SSSocialCircle',
-	font-files(
-		'ss-social-circle.woff', 'woff',
-		'ss-social-circle.ttf', 'truetype',
-		'ss-social-circle.svg#SSSocialCircle', 'svg'
-	),
-	'ss-social-circle.eot',
-	normal,
-	normal
+  font-files(
+    'ss-social-circle.woff', 'woff',
+    'ss-social-circle.ttf', 'truetype',
+    'ss-social-circle.svg#SSSocialCircle', 'svg'
+  ),
+  'ss-social-circle.eot',
+  normal,
+  normal
 );
 
 /* This triggers a redraw in IE to Fix IE8's :before content rendering. */

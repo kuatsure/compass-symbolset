@@ -11,14 +11,14 @@
 */
 
 @include font-face( 'SSSocialRegular',
-	font-files(
-		'ss-social-regular.woff', 'woff',
-		'ss-social-regular.ttf', 'truetype',
-		'ss-social-regular.svgSSSocialRegular', 'svg'
-	),
-	'ss-social-regular.eot',
-	normal,
-	normal
+  font-files(
+    'ss-social-regular.woff', 'woff',
+    'ss-social-regular.ttf', 'truetype',
+    'ss-social-regular.svgSSSocialRegular', 'svg'
+  ),
+  'ss-social-regular.eot',
+  normal,
+  normal
 );
 
 /* This triggers a redraw in IE to Fix IE8's :before content rendering. */

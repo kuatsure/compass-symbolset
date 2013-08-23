@@ -1,12 +1,14 @@
 /**
  * Symbolset Gem
  *
- * Name:			_compass-symbolset.scss
- * Author:			Jarrett Drouillard ( @kuatsure )
+ * Name:          _compass-symbolset.scss
+ * Path:          /stylesheets/_compass-symbolset.scss
+ * Author:        Jarrett Drouillard ( @kuatsure )
+ * Created At:    12/16/12
  *
- * Description:		Includes all libraries of the Symbolset styles
+ * Description:   Includes all libraries of the Symbolset styles
  */
 
-@import 'standard/standard';
-@import 'social/circle';
-@import 'social/regular';
+@import "standard/standard";
+@import "social/circle";
+@import "social/regular";
