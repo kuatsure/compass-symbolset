@@ -25,7 +25,7 @@ Import it in your `.scss` file.
 In your `.scss` file that imports the stylesheets, we now use sass variable triggers. All styles are off by default. Turn them on by switching the variable.
 
 ```scss
-$use-standard: true; // If you want to use Standard Symbolset
+$use-ss-standard: true; // If you want to use Standard Symbolset
 ```
 
 ## Versions

@@ -11,9 +11,9 @@
 
 @charset "UTF-8";
 
-$use-standard:        false!default;
-$use-social-circle:   false!default;
-$use-social-regular:  false!default;
+$use-ss-standard:        false!default;
+$use-ss-social-circle:   false!default;
+$use-ss-social-regular:  false!default;
 
 @import "standard/standard";
 @import "social/circle";
