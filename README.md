@@ -1,4 +1,6 @@
-# Compass Plugin for Symbolset
+# Compass Plugin for Symbolset ( DEPRECATED )
+
+I decompassed these files. Please look for Symbolset [sass mixins](https://github.com/kuatsure/symbolset-sass).
 
 *Keep in mind you'll need to buy the font libraries from Symbolset for this plugin to be of any use to you and your project*
 
